@@ -31,8 +31,8 @@ Un compilateur C++ compatible avec les bibliothèques standard C++ est nécessai
 Pour la compilation vous pouvez utiliser le compilateur g++, par exemple :
 
 > bash :
+
     g++ votre_programme.cpp -o votre_programme
-    g++ votre_programme.cpp -o votre_programme  
 
 !!! LES IMAGES IMPORTEE ET ENREGISTREE DOIVENT ETRE SITUEE A L'EMPLACEMENT SUIVANT : ./images-ppm/  
 
