@@ -38,28 +38,28 @@ bash :    g++ votre_programme.cpp -o votre_programme
 Exécutez le programme compilé. Puis saisissez le nom du fichier image que vous souhaitez traiter.  
 
 ### Le menu principal :  
-Le programme propose un menu interactif avec les options suivantes :  
+> Le programme propose un menu interactif avec les options suivantes :  
 
-1.Afficher l'image.  
-2.Extraire la couleur d'un pixel spécifique.  
-3.Détecter la présence d'une couleur spécifique.  
-4.Convertir l'image en composante rouge.  
-5.Convertir l'image en niveaux de gris.  
-6.Convertir l'image en noir et blanc.  
-7.Augmenter la luminosité de l'image.  
-8.Diminuer la luminosité de l'image.  
-9.Augmenter le contraste de l'image.  
-10.Diminuer le contraste de l'image.  
-11.Rogner l'image à droite.  
-12.Rogner l'image à gauche.  
-13.Rogner l'image en bas.  
-14.Rogner l'image en haut.  
-15.Faire une rotation à droite.  
-16.Faire une rotation à gauche.  
-17.Effectuer un retournement horizontal.  
-18.Effectuer un retournement vertical.  
-19.Agrandir l'image.  
-20.Rétrécir l'image.  
+    1.Afficher l'image.  
+    2.Extraire la couleur d'un pixel spécifique.  
+    3.Détecter la présence d'une couleur spécifique.  
+    4.Convertir l'image en composante rouge.  
+    5.Convertir l'image en niveaux de gris.  
+    6.Convertir l'image en noir et blanc.  
+    7.Augmenter la luminosité de l'image.  
+    8.Diminuer la luminosité de l'image.  
+    9.Augmenter le contraste de l'image.  
+    10.Diminuer le contraste de l'image.  
+    11.Rogner l'image à droite.  
+    12.Rogner l'image à gauche.  
+    13.Rogner l'image en bas.  
+    14.Rogner l'image en haut.  
+    15.Faire une rotation à droite.  
+    16.Faire une rotation à gauche.  
+    17.Effectuer un retournement horizontal.  
+    18.Effectuer un retournement vertical.  
+    19.Agrandir l'image.  
+    20.Rétrécir l'image.  
 
 ### Enregistrement des modifications :  
 À la fin des modifications, le programme demande si vous souhaitez enregistrer les changements. Si oui, spécifiez le nom du fichier de sortie.  
