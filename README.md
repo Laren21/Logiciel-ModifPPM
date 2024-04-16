@@ -4,7 +4,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" style="width:600px;height:600px;">
 </p>  
 
-## Décomposition des fichiers :  
+## Décomposition des fichiers    
 * Dans le dossier principal on trouve directement les codes sources C++ dans plusieurs fichiers différents.  
 * Dans le dossier principal les codes sources sont reliés par différents fichiers header au fichier main qui gère le menu.  
 * Les images qui peuvent être utilisées sont disponibles dans le sous-dossier "Images-ppm".  
@@ -29,12 +29,12 @@ Une fois que tous les tests sont validés un autre membre est chargées d'incré
 
 ## Notice détaillé d'utilisation 
 
-### Utilisation du programme  
+### Utilisation du programme :  
 Ce programme permet d'effectuer diverses opérations sur une image à partir d'un fichier image spécifié.  
 Les opérations comprennent l'affichage de l'image, l'extraction de la couleur d'un pixel, la détection d'une couleur spécifique,  
 et plusieurs transformations telles que la conversion en noir et blanc, l'ajustement de la luminosité, du contraste, le rognage, la rotation et le retournement.
 
-### Prérequis
+### Prérequis :  
 Un compilateur C++ compatible avec les bibliothèques standard C++ est nécessaire.
 Les fichiers d'en-tête "outil.h" et "image.h" doivent être inclus dans le même répertoire que le programme principal.
 
@@ -44,10 +44,10 @@ bash :    g++ votre_programme.cpp -o votre_programme
 
 !!! LES IMAGES IMPORTEE ET ENREGISTREE DOIVENT ETRE SITUEE A L'EMPLACEMENT SUIVANT : ./images-ppm/  
 
-### L'exécution  
+### L'exécution :   
 Exécutez le programme compilé. Puis saisissez le nom du fichier image que vous souhaitez traiter.  
 
-### Le menu principal  
+### Le menu principal :  
 Le programme propose un menu interactif avec les options suivantes :  
 
 1.Afficher l'image.  
@@ -71,5 +71,5 @@ Le programme propose un menu interactif avec les options suivantes :
 19.Agrandir l'image.  
 20.Rétrécir l'image.  
 
-### Enregistrement des modifications  
+### Enregistrement des modifications :  
 À la fin des modifications, le programme demande si vous souhaitez enregistrer les changements. Si oui, spécifiez le nom du fichier de sortie.  
