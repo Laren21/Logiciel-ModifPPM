@@ -20,7 +20,7 @@ Le logiciel devra être réalisé en C++ et comportera un main avec des tests po
 ### Réalisation du logiciel :  
 Les tests sont effectués en même temps que la création des méthodes pour être plus rapide dans le déroulement global du projet, mais aussi éviter les oublies eventuelles. Chaque membre se voit attribuer un ensemble de méthodes à développer. Une fois le développement effectué un membre créer en parallèle les tests. Une fois que tous les tests sont validés un autre membre est chargées d'incrémenter dans le menu les méthodes associé aux tests fraichement validés.  
 
-## Notice détaillé d'utilisation 
+## Notice détaillée d'utilisation 
 
 ### Utilisation du programme :  
 Ce programme permet d'effectuer diverses opérations sur une image à partir d'un fichier image spécifié. Les opérations comprennent l'affichage de l'image, l'extraction de la couleur d'un pixel, la détection d'une couleur spécifique, et plusieurs transformations telles que la conversion en noir et blanc, l'ajustement de la luminosité, du contraste, le rognage, la rotation et le retournement.
