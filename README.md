@@ -12,31 +12,21 @@
 ## Déroulement du projet   
 
 ### Répartition des tâches :  
-Dans ce projet l'équipe est constituée de 2 personnes. Chacun s'occupe de développer ses fonctionnalités dans des fichiers sources en C++ différents.  
-Puis les codes sont mis en commun et les ajustements finals faits en équipe. Une personne reste chargée de la validation des méthodes.
-L'autre personne s'occupe du côté utilisateur (création du menu etc...).  
+Dans ce projet l'équipe est constituée de 2 personnes. Chacun s'occupe de développer ses fonctionnalités dans des fichiers sources en C++ différents. Puis les codes sont mis en commun et les ajustements finals faits en équipe. Une personne reste chargée de la validation des méthodes. L'autre personne s'occupe du côté utilisateur (création du menu etc...).  
 
 ### Conception du logiciel :  
-Le logiciel devra être réalisé en C++ et comportera un main avec des tests pour s'assurer de la fiabilité des méthodes incrémentées.  
-Un autre main sera utiliser pour la création d'un menu qui sera cette fois-ci utilisée par l'utilisateur.  
-L'utilisateur devra choisir une image à modifier, choisir une méthode à appeler sur cette image, puis sauvegarder.  
-La visualisation des modifications peut être faite en ouvrant les images dans le fichier "Images-ppm" sur des logiciels comme GIMP par exemple.  
+Le logiciel devra être réalisé en C++ et comportera un main avec des tests pour s'assurer de la fiabilité des méthodes incrémentées. Un autre main sera utiliser pour la création d'un menu qui sera cette fois-ci utilisée par l'utilisateur. L'utilisateur devra choisir une image à modifier, choisir une méthode à appeler sur cette image, puis sauvegarder. La visualisation des modifications peut être faite en ouvrant les images dans le fichier "Images-ppm" sur des logiciels comme GIMP par exemple.  
 
 ### Réalisation du logiciel :  
-Les tests sont effectués en même temps que la création des méthodes pour être plus rapide dans le déroulement global du projet, mais aussi éviter les oublies eventuelles.  
-Chaque membre se voit attribuer un ensemble de méthodes à développer. Une fois le développement effectué un membre créer en parallèle les tests.  
-Une fois que tous les tests sont validés un autre membre est chargées d'incrémenter dans le menu les méthodes associé aux tests fraichement validés.  
+Les tests sont effectués en même temps que la création des méthodes pour être plus rapide dans le déroulement global du projet, mais aussi éviter les oublies eventuelles. Chaque membre se voit attribuer un ensemble de méthodes à développer. Une fois le développement effectué un membre créer en parallèle les tests. Une fois que tous les tests sont validés un autre membre est chargées d'incrémenter dans le menu les méthodes associé aux tests fraichement validés.  
 
 ## Notice détaillé d'utilisation 
 
 ### Utilisation du programme :  
-Ce programme permet d'effectuer diverses opérations sur une image à partir d'un fichier image spécifié.  
-Les opérations comprennent l'affichage de l'image, l'extraction de la couleur d'un pixel, la détection d'une couleur spécifique,  
-et plusieurs transformations telles que la conversion en noir et blanc, l'ajustement de la luminosité, du contraste, le rognage, la rotation et le retournement.
+Ce programme permet d'effectuer diverses opérations sur une image à partir d'un fichier image spécifié. Les opérations comprennent l'affichage de l'image, l'extraction de la couleur d'un pixel, la détection d'une couleur spécifique, et plusieurs transformations telles que la conversion en noir et blanc, l'ajustement de la luminosité, du contraste, le rognage, la rotation et le retournement.
 
 ### Prérequis :  
-Un compilateur C++ compatible avec les bibliothèques standard C++ est nécessaire.
-Les fichiers d'en-tête "outil.h" et "image.h" doivent être inclus dans le même répertoire que le programme principal.
+Un compilateur C++ compatible avec les bibliothèques standard C++ est nécessaire. Les fichiers d'en-tête "outil.h" et "image.h" doivent être inclus dans le même répertoire que le programme principal.  
 
 Pour la compilation vous pouvez utiliser le compilateur g++, par exemple :
 
