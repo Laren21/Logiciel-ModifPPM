@@ -34,7 +34,7 @@ Ce programme permet d'effectuer diverses opérations sur une image à partir d'u
 Les opérations comprennent l'affichage de l'image, l'extraction de la couleur d'un pixel, la détection d'une couleur spécifique,  
 et plusieurs transformations telles que la conversion en noir et blanc, l'ajustement de la luminosité, du contraste, le rognage, la rotation et le retournement.
 
-### Prerequis
+### Prérequis
 Un compilateur C++ compatible avec les bibliothèques standard C++ est nécessaire.
 Les fichiers d'en-tête "outil.h" et "image.h" doivent être inclus dans le même répertoire que le programme principal.
 
