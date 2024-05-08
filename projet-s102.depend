@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1705080862 source:c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\filtre.cpp
+	"image.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"filtre.h"
+
+1705082095 c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1705080862 c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\filtre.h
+	<iostream>
+	<string>
+	<vector>
+
+1705082453 source:c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\image.cpp
+	"image.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1705082703 source:c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\maintests.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"outil.h"
+	"image.h"
+
+1705080863 c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\outil.h
+	<iostream>
+	<string>
+	<vector>
+
+1705080863 source:c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\outil.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"outil.h"
+
+1705081289 source:c:\users\estro\onedrive\documents\cours_init_dev2\s-102 compalgo\projet-s102\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"outil.h"
+	"image.h"
+
